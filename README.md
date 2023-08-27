@@ -2,7 +2,7 @@
 <h3 align="left">Connect with me:</h3>
 <img align="right" alt="coding-img" width="50%" heght="50%" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" >
 <p align="left">
-<a href="https://fb.com/https://www.facebook.com/haquynhla2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/haquynhla2002" height="30" width="40" /></a>
+<a href="https://fb.com/haquynhla2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/haquynhla2002" height="30" width="40" /></a>
 <a href="https://instagram.com/iem_qynh16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iem_qynh16" height="30" width="40" /></a>
 </p>
 
